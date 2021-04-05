@@ -1,5 +1,5 @@
-# cmdown
-CMdown - A tool for fast downloads.
+# ***CMdown***
+***CMdown - A tool for Multi-threaded download.***
 
  [![Capture.png](https://i.postimg.cc/4NrxH31J/Capture.png)](https://postimg.cc/qzxT94YY)
 
